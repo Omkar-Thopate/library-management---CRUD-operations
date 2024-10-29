@@ -1,0 +1,15 @@
+{
+  "name": "library-management",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "basic",
+    "start": "node src/app.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
