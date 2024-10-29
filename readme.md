@@ -1,6 +1,6 @@
 # Authentication using JWT token
 
-# Use Express, postgresql
+# Use Express, postgresql, Swagger
 
 # Automatic data insert into DB while starting your application
 
